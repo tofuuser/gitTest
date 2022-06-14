@@ -1,9 +1,7 @@
 package com.atguigu.git;
 
-public class GitTest {
+public class gitTest {
     public static void main(String[] args) {
-        System.out.println("HelloWorld!");
-
+        System.out.println("hello git111");
     }
-
 }
